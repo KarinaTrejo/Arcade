@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//Temple Run
+//Karina Trejo
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (character runs into tree root) {
+    //swipe character up
 } else {
-    //Add event below
+    //keep running forward
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (character comes to right corner) {
+    //swipe character to the left
 } else {
-    //Add event below
+    //swipe character to the right
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (character comes to an arch) {
+    //swipe character down
 } else {
-    //Add event below
+    //keep running forward  
 }
 
 
